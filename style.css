@@ -1,0 +1,49 @@
+body {
+  background-color: white;
+}
+.container {
+  background-color: rgb(5, 4, 4);
+  width: 450px;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  border: 2px solid rgb(66, 51, 23);
+  border-radius: 10px;
+  margin-left: 20em;
+  margin-top: 5em;
+}
+.Image {
+  width: 150px;
+  border-radius: 10px;
+  margin-left: 10px;
+  border: 2px solid rgb(66, 51, 23);
+}
+
+.button {
+  margin-left: 5em;
+  margin-bottom: 10px;
+  background-color: rgb(66, 51, 23);
+  border-radius: 5px;
+  color: black;
+}
+.number {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  color: ;
+}
+.textNumber {
+  font-size: 12px;
+  margin-left: 10px;
+  margin-top: 10px;
+  text-decoration: line-through;
+}
+.text {
+  margin-left: 25px;
+  color: rgb(66, 51, 23);
+}
+.description {
+  font-size: 12px;
+  width: auto;
+}
